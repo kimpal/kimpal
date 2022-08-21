@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimpal
+# 👋 Hi, I’m @kimpal
 - 👀 I’m interested in: AI, python programming, universal design, web design & new technology
 - 🌱 I’m currently learning: react and python
 - 💞️ I’m looking to collaborate on ...
