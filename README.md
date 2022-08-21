@@ -17,8 +17,6 @@
 
 ## Statestic
 ![kimpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpal&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpal&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpal&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 kimpal/kimpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
