@@ -17,6 +17,7 @@
 
 ## Statestic
 [![kimpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpal)](https://github.com/anuraghazra/github-readme-stats)
+![kimpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpal_icons=true&theme=dark)
 <!---
 kimpal/kimpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
