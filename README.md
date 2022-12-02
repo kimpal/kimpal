@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @kimpal MY name is kim Kristoffer Pal
 - 👀 I’m interested in: AI, python programming, universal design, web design & new technology
-- 🌱 I’m currently learning: react and python
+- 🌱 I’m currently learning: python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
