@@ -1,7 +1,7 @@
 # 👋 Hi, I’m kimpal MY name is Kim Kristoffer Pal
 - 👀 I’m interested in: ML, AI, python programming, universal design, web design & new technology
 - 🌱 I’m currently learning: more python and ML
-- 🎓 Currently working on my Master in Applied CS - Machine Learning and Cyber-Physical Systems, Østfold University College, 2024
+- 🎓 Master in Applied CS - Machine Learning and Cyber-Physical Systems, Østfold University College, 2024
 - 🎓 Bachelor in Applied Computer Technology, OsloMet, 2022
 <!--- - 💞️ I’m looking to collaborate on ... -->
 <!--- - 📫 How to reach me ... -->
