@@ -6,6 +6,8 @@
 <!--- - 💞️ I’m looking to collaborate on ... -->
 <!--- - 📫 How to reach me ... -->
 
+# Uniting old and new, where solutions are built on existing knowledge from past engineers and creators. With a love for the old and the new in beautiful union. With sustainability in focus.
+
 ## Skils
 <!--- FOR MORE BADGES: https://hendrasob.github.io/badges/ and https://github.com/Ileriayo/markdown-badges  -->
 ### PROGRAMMING LANGUAGES & LIBRARIES
